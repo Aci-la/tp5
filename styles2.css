@@ -24,7 +24,7 @@ body {
 }
 
 .add {
-    background-color: #fff;
+    background-color: #FFCCCC;
     border-radius: 8px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
     padding: 20px;
@@ -65,7 +65,7 @@ button {
 }
 
 button:hover {
-    background-color: #FFFFFF;
+    background-color: #FFCCCC;
 }
 
 ul {
