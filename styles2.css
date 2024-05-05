@@ -24,7 +24,7 @@ body {
 }
 
 .add {
-    background-color: #fff;
+    background-color: blueviolet;
     border-radius: 8px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
     padding: 20px;
@@ -56,7 +56,7 @@ button {
 }
 
 button {
-    background-color: #5cdb95;
+    background-color: blueviolet;
     color: #fff;
     border: none;
     border-radius: 5px;
@@ -65,7 +65,7 @@ button {
 }
 
 button:hover {
-    background-color: #4ea884;
+    background-color: blueviolet;
 }
 
 ul {
