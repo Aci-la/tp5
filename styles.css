@@ -38,7 +38,7 @@ body {
 
 .button {
     background-color: blueviolet;
-    color: #fff;
+    color: #FFCCCC;
     padding: 10px 20px;
     border: none;
     border-radius: 5px;
@@ -49,5 +49,5 @@ body {
 }
 
 .button:hover {
-    background-color:#FFCCCC;
+    background-color: #FFCCCC;
 }
